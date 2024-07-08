@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    .top{
+        height: 200px;
+        width: cover;
+        
+    }
+    
+    .box1{
+        height: 200px;
+        width: cover;
+        position: absolute;
+        transform: translate(-50%,-50%);
+        top: 50%;
+        left: 50%;
+    }
+    
+    
+.main-page{
+    background-image: url(jumbotronimg.jpg);
+    height: 600px;
+    background-size: cover;
+    justify-content: center;
+    
+    text-align: center;
+}
+
+.result-area{
+    
+    height: 400px;
+    background-size: cover;
+    justify-content: center;
+    
+    text-align: center;
+}
+
+.result-area{
+    display: none;
+}
