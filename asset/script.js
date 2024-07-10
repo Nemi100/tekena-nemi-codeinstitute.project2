@@ -1,6 +1,6 @@
 document.onload = console.log("The document has loaded!");
 
-let buttons = document.getElementsByTagName("button");
+/*let buttons = document.getElementsByTagName("button");*/
 
 
 
