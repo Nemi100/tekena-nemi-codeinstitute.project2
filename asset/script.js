@@ -61,6 +61,7 @@ function buildTable(data){
         return holidayChoices.Preference === "city"});
         console.log(city);
   
+
 /**
  * When click search, hide budget hokliday.com panel and show the options
  * 
@@ -68,11 +69,13 @@ function buildTable(data){
  * 
  */
 function handleSubmit() {
+    document.getElementById("results").style.visibility = "visible"
     
 
     // Get the two input elements
     var rd1 = document.getElementById("rd1");
     var rd2 = document.getElementById("rd2");
+
 
     if (rd1.checked == true ){
         console.log("coast:", rd1.value);
@@ -93,3 +96,7 @@ function handleSubmit() {
 }
 handleSubmit();
 
+function handleHide(){
+    console.log("test")
+    document.getElementById("results").style.visibility = "hidden"
+}

@@ -3,16 +3,23 @@
     padding: 0;
     box-sizing: border-box;
     }
+   .navbar-dark{
+     background-color: #2c2c2c;
+     
+   }
+
+   .navbar-dark a{
+    color: aliceblue;
+   } 
 
     .top{
         height: 200px;
-        width: cover;
+        
         
     }
     
     .box1{
         height: 200px;
-        width: cover;
         position: absolute;
         transform: translate(-50%,-50%);
         top: 50%;
@@ -25,7 +32,7 @@
     height: 600px;
     background-size: cover;
     justify-content: center;
-    
+    padding-top: 40px;
     text-align: center;
 }
 
@@ -40,4 +47,11 @@
 
 .result-area{
     display: none;
+}
+
+.content-box{
+ background-image: url(jumbotronimg.jpg);
+ padding-top: 50px;
+ width: 100%;
+ 
 }

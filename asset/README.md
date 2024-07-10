@@ -13,6 +13,7 @@ Site vistors  have the chance to choose from a range of locations and holiday ty
 1. **Clone the repository:**
     ```
     git clone https://github.com/Nemi100/tekena-codeinst-project.git
+
     ```
 
 2. **Navigate to the project directory:**
@@ -30,12 +31,20 @@ If you have any questions, issues, or suggestions regarding Budget holidays.com 
 
 This website is meant to introduce d'Twister's musical band to everyone and also musically like minded people/artists together. The navigation is very simple and clear intentionally to enable ease of the visitors to browse the website and ultimately becoming a fan of the band.
 
+This website is takes the users directly to multiple choice holiday preferences from either coastal holidays to city type holidays. The result of that preference . The users will then have options by location and prices. The users will have an option to call the reservation line to enquire more about the holiday package.
+
 **User Stories**
 
     First-time visitor goals
     - Understand the main purpose of the site and learn more about d'Twister musical band
-    - Listen to sample of their music 
+    -First time users know what the site is about and searches for their desired holiday preference
+
+    - Listen to sample of their music
+    - Users can search for particular type holiday experience and make choices by location
+
     - Navigate easily throughout the site
+    The single page layout makes it easy to navigate and straight forward
+
     - Register/signup to Album' the newsletter with a chance to win free concert tickets and a copy of the upcoming Album signed.      
         
     Returning visitor goals
@@ -58,6 +67,7 @@ This website is meant to introduce d'Twister's musical band to everyone and also
     
     Imagery
         - The images used are from Pexels.
+        - Images used is by Pixaby from pixels.com(brown wooden bridge-free stock photos)
 
 ### Wireframes
     
@@ -80,7 +90,15 @@ This website is meant to introduce d'Twister's musical band to everyone and also
     - Easy navigation between pages without having to revert via back button
     - Consitent design across all pages (header and footer)
 
+- radio selection buttons
+     - includes selection of both coastal and city type holiday preference
+     - A result area that shows only when a prefered type selection and search button has been clicked
+     - A sleek and straight forward design 
+
     ![Navigation Bar](Twister_Navigation.jpg)
+
+    ![website display](jumbotronimg.jpg)
+
 
 - Main Heading
     - It has a consistent orange and brown background with comprises of "Welcome to the d'Twisters"
@@ -124,12 +142,18 @@ This website is meant to introduce d'Twister's musical band to everyone and also
 -  Capability for the ability for each user to have a dedicated account where they can see all that they have signed up for and also history of any concerts tickets previously purchased
 - A dedicated place that fans can share their experiences meeting the band
 - A responsive gallery
+
+- capabilty of the user to click on any location and a corousel of fun things to do while in the choosen location 
+-  A dedicated place that users can share their experiences 
+- A select button and preferebly a add to basket and payment option
+
  
 ## Technology Used 
 
     - Languages Used
         - CSS
         - HTML5
+        - JavaScript
     
     Frameworks and Programs Used
 
@@ -144,9 +168,6 @@ This website is meant to introduce d'Twister's musical band to everyone and also
 
         - VS Code dev tool
             - This was used for the development of the website.
-
-        - Font Awesome
-            - This was used to add icons on the web pages for example social media icons on the footer of the website.
 
         - Uizard
             - This was used in the creation of the wireframes during the design stage.
@@ -172,6 +193,13 @@ W3C was used to validate all the created pages throughout the development/implem
  - CSS Validator
 
     - ![CSS](Twister_CSS_Validator.jpg)
+
+JSLint was used to test for 
+Write JavaScript code, that 
+passes through a linter (e.g. 
+JSLint) with no major issues and 
+write validated HTML and CSS 
+code
 
 **Testing User Stories (UX)**
 
@@ -247,6 +275,8 @@ W3C was used to validate all the created pages throughout the development/implem
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
  - [Pexels Images] (https://www.pexels.com/search/concert/)
  - [Code Institute](https://codeinstitute.net/)
+
+ -
 
 We would like to thank the following individuals and organizations for their contributions to [Twisters]:
 
