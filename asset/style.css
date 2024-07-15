@@ -12,18 +12,23 @@
     color: aliceblue;
    } 
 
-    .top{
-        height: 200px;
-        
-        
+    /*.top{
+       /* height: 200px;*/
+       /* width: cover;
     }
+
+    .top p{
+        color: black;
+    }*/
     
     .box1{
-        height: 200px;
+        /*height: 200px;*/
         position: absolute;
         transform: translate(-50%,-50%);
         top: 50%;
         left: 50%;
+        /*padding-top: 200px;*/
+        color: whitesmoke;
     }
     
     
@@ -31,21 +36,31 @@
     background-image: url(jumbotronimg.jpg);
     height: 600px;
     background-size: cover;
+    background-attachment: fixed;
     justify-content: center;
+    background-repeat: no-repeat;
     padding-top: 40px;
+   background-position: center;
+}
+
+.main-page h2{
     text-align: center;
 }
 
 .main-page p{
     text-emphasis: bold;
+    text-align: center;
 }
 
+.main-page h3{
+    text-align: center;
+}
 .result-area{
     
     height: 400px;
     background-size: cover;
     justify-content: center;
-    
+    /*padding-top: 400px;*/
     text-align: center;
 }
 
@@ -55,7 +70,15 @@
 
 .content-box{
  background-image: url(jumbotronimg.jpg);
+ background-size: cover;
+ background-attachment: fixed;
+ justify-content:center;
+ background-repeat: no-repeat;
+ background-position:center;
  padding-top: 50px;
- width: 100%;
  
+}
+
+.content-box p{
+    color: whitesmoke;
 }
