@@ -64,11 +64,11 @@ This website is a different travel page that is meant to make booking a holiday 
     
 -  Homepage Wireframe
 
-     ![HomePageWireFrame](BudgetHoliday_WireFrame_HomePage.jpg)
+     ![HomePageWireFrame](asset/BudgetHoliday_WireFrame_HomePage.jpg)
 
 - About Us Wireframe
 
-     ![AboutUsWireFrame]()
+     ![AboutUsWireFrame](asset/BudgetHoliday_WireFrame_AboutUs.jpg)
 
 ### Existing Features
 
@@ -78,7 +78,7 @@ This website is a different travel page that is meant to make booking a holiday 
     2.	Consistent design across all pages
     3.	Easy navigation between pages without having to revert via the back button
  
-    ![Navigation Bar](BudgetHoliday_Navigation.jpg)
+    ![Navigation Bar](asset/BudgetHoliday_Navigation.jpg)
 
 -	Main Heading
     1.	It has a consistent black background
@@ -87,12 +87,12 @@ This website is a different travel page that is meant to make booking a holiday 
     1.	Background image with page contents written in black
     2.	Within the background image there are radio buttons (2 radio button options) that displays the options of holiday packages been offered. It also has the search button that then fetches the selected option.
 
-    ![Module1](BudgetHoliday_Module1.jpg)
+    ![Module1](asset/BudgetHoliday_Module1.jpg)
     
 -	Module 2 (Section 2)
     1.	In this part of the website, it displays the result of the customer search options in module 1. It also hides the results if no longer needed, keeping the webpage clean, concise and very clear.
 
-    ![Module2](BudgetHoliday_Module2.jpg)
+    ![Module2](asset/BudgetHoliday_Module2.jpg)
 
 
 ## Future potential Improvements
@@ -138,15 +138,16 @@ W3C was used to validate all the created pages throughout the development/implem
 
     - Home Page 
 
-      ![HomePage](BudgetHoliday_HomePage_Validator.jpg)
+      ![HomePage](asset/BudgetHoliday_HomePage_Validator.jpg)
 
     - About Us
 
-      ![About Us](BudgetHoliday_AboutUs.jpg)
-
+      ![About Us](asset/BudgetHoliday_AboutUs.jpg)
+        
  - CSS Validator
 
-    - ![CSS](BudgetHoliday_CSS_Validator.jpg)
+    - ![CSS](asset/BudgetHoliday_CSS_Validator.jpg)
+        
 
 JSLint was used to test for 
 Write JavaScript code, that 
@@ -182,13 +183,16 @@ code
 
  - Home Page
  
- ![HomePageResponsive](BudgetHoliday_Responsive_HomePage.jpg)
+ ![HomePageResponsive](asset/BudgetHoliday_Responsive_HomePage.jpg)
 
- ![HomePagesResultResponsive](BudgetHoliday_Responsive_HomePageResults.jpg)
-
+ ![HomePagesResultResponsive](asset/BudgetHoliday_Responsive_HomePageResults.jpg)
+ 
  - About Us
 
-  ![AboutUsResponsive](BudgetHoliday_Responsive_AboutUs.jpg)
+  ![AboutUsResponsive](asset/BudgetHoliday_Responsive_AboutUs.jpg)
+
+
+
 
 ## Acknowledgements
 
