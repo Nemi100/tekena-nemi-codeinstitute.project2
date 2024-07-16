@@ -25,127 +25,85 @@ Site vistors  have the chance to choose from a range of locations and holiday ty
 
 ## Support
 
-If you have any questions, issues, or suggestions regarding Budget holidays.com , please feel free to mail (teksity@gmail.com)
+If you have any questions, issues or feedback suggestions regarding Holiday Budget, please feel free to email (teksity@gmail.com)
 
 ## User Experience (UX)
 
-This website is meant to introduce d'Twister's musical band to everyone and also musically like minded people/artists together. The navigation is very simple and clear intentionally to enable ease of the visitors to browse the website and ultimately becoming a fan of the band.
+This website is a different travel page that is meant to make booking a holiday with or without the family exciting and done with ease. It is also created with the customers in mind, making the choice for holiday destination is made with ease.
 
-This website is takes the users directly to multiple choice holiday preferences from either coastal holidays to city type holidays. The result of that preference . The users will then have options by location and prices. The users will have an option to call the reservation line to enquire more about the holiday package.
 
 **User Stories**
 
-    First-time visitor goals
-    - Understand the main purpose of the site and learn more about d'Twister musical band
-    -First time users know what the site is about and searches for their desired holiday preference
+   1.	First Time User Goals
+        -	Understand the aim of the website and learn about what sets Budget Holiday.com from the other travel companies’ website.
+        -	Navigate around the website with ease, getting understanding of what is the uniqueness of Budget Holiday.com compared to its competitors.
+        -	Search for budget holidays in the coast
+        -	Search for city tours packages 
 
-    - Listen to sample of their music
-    - Users can search for particular type holiday experience and make choices by location
+2.	Returning User Goals
+    - Find out the latest/ newest holiday packages
+    - Find the contact information for the selected packages
 
-    - Navigate easily throughout the site
-    The single page layout makes it easy to navigate and straight forward
+3.	Frequent User Goals
+    -	Review the packages for the coastal holiday on offer
+    -	Review the packages for the tour holiday on offer.
 
-    - Register/signup to Album' the newsletter with a chance to win free concert tickets and a copy of the upcoming Album signed.      
-        
-    Returning visitor goals
-    - Find out latest information about the band
-    - Review the extensive site gallery
-    - Find the contact information
-
-    Frequent user goals
-    - Review the gallery for any new photos
-    - Review the home page for upcoming concert dates
-    - Listen to new songs if available
 
 ## Design
 
     - Colour Scheme
-        - The main colours used are orange(header & footer), black, blue and grey/brown (text) 
+        - The main colours used are black, light blue, dark blue, grey and white
 
     - Typography
         - The Roboto is the chosen font to use. This is because its friendly features and open curves, allowing texts to be settled in their natural width, making it the perfect font to use when creating a responsive website.
     
     Imagery
-        - The images used are from Pexels.
-        - Images used is by Pixaby from pixels.com(brown wooden bridge-free stock photos)
+        - The images used are from pixaby at pixel.com
 
 ### Wireframes
     
- - Gallery Page Wireframe
-
-    ![GalleryWireFrame](Twister_Gallery_WireFrame.jpg)
-
 -  Homepage Wireframe
 
-     ![HomePageWireFrame](Twister_HomePage_WireFrame.jpg)
+     ![HomePageWireFrame](BudgetHoliday_WireFrame_HomePage.jpg)
 
-- Contact Us / Sign Up Wireframe
+- About Us Wireframe
 
-     ![ContactUsWireFrame](Twister_ContactUs_WireFrame.jpg)
+     ![AboutUsWireFrame]()
 
 ### Existing Features
 
 - Navigation bar
-    - Includes links to the home page, gallery and contact/Sign up
-    - Easy navigation between pages without having to revert via back button
-    - Consitent design across all pages (header and footer)
+ 
+    1.	Includes links to the homepage and About us pages
+    2.	Consistent design across all pages
+    3.	Easy navigation between pages without having to revert via the back button
+ 
+    ![Navigation Bar](BudgetHoliday_Navigation.jpg)
 
-- radio selection buttons
-     - includes selection of both coastal and city type holiday preference
-     - A result area that shows only when a prefered type selection and search button has been clicked
-     - A sleek and straight forward design 
+-	Main Heading
+    1.	It has a consistent black background
+    2.	Font colour used is white to ensure website is accessible to everyone.
+-	Module 1 (Section 1)
+    1.	Background image with page contents written in black
+    2.	Within the background image there are radio buttons (2 radio button options) that displays the options of holiday packages been offered. It also has the search button that then fetches the selected option.
 
-    ![Navigation Bar](Twister_Navigation.jpg)
-
-    ![website display](jumbotronimg.jpg)
-
-
-- Main Heading
-    - It has a consistent orange and brown background with comprises of "Welcome to the d'Twisters"
-    - There is a CTA for signup at the heading, this is consistent across all pages
-
-    ![Main Header](Twister_MainHeader.jpg)
-
-- Section One
-    - Selection of images scrolling across the page
+    ![Module1](BudgetHoliday_Module1.jpg)
     
-    ![Carousel](Twister_Carousel.jpg)
-    
-- Section two - More details on the band    
-    - Detailed information of the band
-    - List of some of the song on the upcoming Album and go live date
+-	Module 2 (Section 2)
+    1.	In this part of the website, it displays the result of the customer search options in module 1. It also hides the results if no longer needed, keeping the webpage clean, concise and very clear.
 
-    ![MoreDetails](Twister_MoreDetails.jpg)
+    ![Module2](BudgetHoliday_Module2.jpg)
 
-- Section three 
-    - Details for bookings and reservations
-    - CTA to contact the band or sign up for the newsletter
-    - Each page has unique content
 
-  ![ContactDetails](Twister_ContactDetails.jpg)
+## Future potential Improvements
 
-- Footer
-    - Follow the band on all social pages (link to each social channel)
+Below are some of the future features that could and not limited to be implemented at a later date:
 
-  ![Footer](Twister_Footer.jpg)
-
-**Additional Features**
-
-- This website target people that is interested in alternate music, similar to the band's music.
-- This can be done by navigating to the register/signup page/popup and filling out the form-
-- Connect with the band's community on their various social media handle
-- This Website is very responsive on all device sizes, it also has light/dark mode toggle on the images in gallery.
-
-## Features Left to Implement
-
--  Additional gallery images
--  Capability for the ability for each user to have a dedicated account where they can see all that they have signed up for and also history of any concerts tickets previously purchased
-- A dedicated place that fans can share their experiences meeting the band
-- A responsive gallery
-
-- capabilty of the user to click on any location and a corousel of fun things to do while in the choosen location 
--  A dedicated place that users can share their experiences 
-- A select button and preferebly a add to basket and payment option
+    1.	Shopping cart capability
+    2.	Google API to enrich the user experience
+    3.	Local news RSS feed
+    4.	Weather forecast display with any search results for the selected location.
+    5. Social media presence, customers been able to leave feedback and ask questions on any of the social media channel.
 
  
 ## Technology Used 
@@ -178,21 +136,17 @@ W3C was used to validate all the created pages throughout the development/implem
 
  - Markup Validator
 
-    - Home Page
+    - Home Page 
 
-      ![HomePage](Twister_HomePage_Validator.jpg)
+      ![HomePage](BudgetHoliday_HomePage_Validator.jpg)
 
-    - Contact Us
+    - About Us
 
-      ![ContactUs](Twister_ContactUs_Validator.jpg)
-
-    - Gallery
-
-      ![Gallery](Twister_Gallery_Validator.jpg)
+      ![About Us](BudgetHoliday_AboutUs.jpg)
 
  - CSS Validator
 
-    - ![CSS](Twister_CSS_Validator.jpg)
+    - ![CSS](BudgetHoliday_CSS_Validator.jpg)
 
 JSLint was used to test for 
 Write JavaScript code, that 
@@ -204,41 +158,14 @@ code
 **Testing User Stories (UX)**
 
     - First-Time Visitor Goals
-        - Understand the main purpose of the site and learn more about d'Twister musical band
-            - Initial entering of the website, users would be greeted with a simple and easy navigation bar, which can be used to navigation to other pages
-            - In the middle of the home page there are image carousel of the band, this give a clear and creative picture of the band.
-            - Underneath the image carousel, there is a description of the band and also a call to action for the user to read more about the band. There is also dates of upcoming events the user/s might be interested in.
-
-        - Listen to sample music 
-            - At the footer of the website, the user is able to listen a collection of the band's music regardless of the page within the website they are on.
-
-        - Navigate easily throughout the site
-            - The website has been designed with clear objective, this can be seen with the clear navigation, the user would not feel trap at any stage, there is always somewhere to go regardless of the page.
-            - The user is able to connect to the band via any of the social media handle
-            - Each link is clearly label with the aim describing what the page is about.
-
-        - Register/signup to Album' the newsletter with a chance to win free concert tickets and a copy of the upcoming Album signed. 
-            - The navigation bar highlights the 'Sign Up' to the newsletter call to action, with emphasises on a chance to win concert tickets and/or get a signed copy of the new upcoming Album.
+        - Navigate easily throughout the site, this has been intentionally done to ensure the user is able to navigate throughout the site. 
+        - Understand the main objectives of the site and learn more about the various packages offered by Budget Holidays.
+        - Each link has been clearly label with the aim of describing what the page is about.    
 
     - Returning Visitor / Frequent User Goals
+        - Find the newest packages on offer
+        - Find the contact information and cost of required city tour/coast holiday packages
 
-        - Find out latest information about the band
-            - This can be found by visting the band's social media handle of the band.
-            - The user can also sign up to the newsletter,they are then prompted to enter their firstname, lastname and email address.
-            - There is a submit button of the inputted fields.
-            - The social media icons can be located at the bottom of every page on the website
-
-        - Review the extensive site gallery for the latest event pictures
-            - This can be found by clicking on the Gallery, this is a page on the website that is dedicated to pictures from various events the band performed at.    
-
-        - Find the contact information and requirements needed for booking the band for an event
-            - The footer of every page on the website has links to the band's various social media handle, the email address and also the phone number for getting in touch with the band.
-
-        - Review the home page for upcoming concert dates
-            - The user is already familar with the layout of the website, they can get this information on the home page underneath the image carousel on the right hand side.
-
-        - Listen to new songs if available
-            - The user already familar. with the website, can check the footer of any of the pages on the website to listen to the latest music from the band
 
 **Additional Testing**
 
@@ -249,24 +176,19 @@ code
    
 **Known Bugs**
 
-    - The text at the bottom of the page is not very clear on mobile devices 
-    - The images in the gallery page are not aligned in their containers correctly.
-    - Mobile responsiveness not very fluid
+    - The colour of the text in the About Us page does not compile with accessibility rules, which means some of the text on that page is not clear enough to be readable
 
- ![HomePageResponsive](Twister_HomePage2_Responsive.jpg)
+    - Mobile responsiveness is not very fluid and also the text over flows with the radio button for the travel packages search.
+
  - Home Page
+ 
+ ![HomePageResponsive](BudgetHoliday_Responsive_HomePage.jpg)
 
- ![HomePageResponsive](Twister_HomePage1_Responsive.jpg)
+ ![HomePagesResultResponsive](BudgetHoliday_Responsive_HomePageResults.jpg)
 
- ![HomePageResponsive](Twister_HomePage2_Responsive.jpg)
+ - About Us
 
-  - Gallery
-
- ![GalleryResponsive](Twister_Gallery_Responsive.jpg)
-
- - Contact Us
-
-  ![ContactUsResponsive](Twister_ContactUs_Responsive.jpg)
+  ![AboutUsResponsive](BudgetHoliday_Responsive_AboutUs.jpg)
 
 ## Acknowledgements
 
@@ -276,9 +198,11 @@ code
  - [Pexels Images] (https://www.pexels.com/search/concert/)
  - [Code Institute](https://codeinstitute.net/)
 
- -
+ - [8 must known Javascript Array methods] (https://www.youtube.com/watch?v=R8rmfD9Y5-c)
 
-We would like to thank the following individuals and organizations for their contributions to [Twisters]:
+- [JSON response to html table] (https://www.youtube.com/watch?v=XmdOZ5NSqb8&t=121s)
+
+We would like to thank the following individuals and organizations for their contributions to this project:
 
 - [Nemi100](https://github.com/Nemi100)
 

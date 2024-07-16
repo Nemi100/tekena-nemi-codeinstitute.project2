@@ -12,22 +12,13 @@
     color: aliceblue;
    } 
 
-    /*.top{
-       /* height: 200px;*/
-       /* width: cover;
-    }
 
-    .top p{
-        color: black;
-    }*/
     
     .box1{
-        /*height: 200px;*/
         position: absolute;
         transform: translate(-50%,-50%);
         top: 50%;
         left: 50%;
-        /*padding-top: 200px;*/
         color: whitesmoke;
     }
     
@@ -60,7 +51,6 @@
     height: 400px;
     background-size: cover;
     justify-content: center;
-    /*padding-top: 400px;*/
     text-align: center;
 }
 
