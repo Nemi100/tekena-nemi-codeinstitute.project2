@@ -69,7 +69,6 @@ function buildTable(data){
  * 
  */
 function handleSubmit() {
-    document.getElementById("results").style.visibility = "visible"
     
 
     // Get the two input elements
@@ -81,22 +80,22 @@ function handleSubmit() {
         console.log("coast:", rd1.value);
         buildTable(coast);
         document.querySelector(".result-area").style.display ="block";
-
-    }
-    else if(rd2.checked==true){
+        rd1.checked = false;
+    }else if(rd2.checked==true){
         console.log("city:", rd2.value);
         buildTable(city);
         document.querySelector(".result-area").style.display ="block";
-    }
-    else
-    alert('Please make a selection');
-
-    // Log their values to the console
+        rd2.checked = false;
+    }else {
+       alert('Please make a selection');
+   }
+      
+  document.getElementById("results").style.visibility = "visible";
+    
    
 }
-handleSubmit();
 
-function handleHide(){
-    console.log("test")
-    document.getElementById("results").style.visibility = "hidden"
+function handleHide() {
+    console.log("test");
+    document.getElementById("results").style.visibility = "hidden";
 }
