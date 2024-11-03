@@ -88,8 +88,8 @@ function handleSubmit() {
         buildTable(city);
         document.querySelector(".result-area").style.display ="block";
     }
-    //else
-    //alert('Please make a selection');
+    else
+    alert('Please make a selection');
 
     // Log their values to the console
    

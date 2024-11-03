@@ -1,74 +1,26 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    }
-   .navbar-dark{
-     background-color: #2c2c2c;
-     
-   }
-
-   .navbar-dark a{
-    color: aliceblue;
-   } 
-
-
-    
-    .box1{
-        position: absolute;
-        transform: translate(-50%,-50%);
-        top: 50%;
-        left: 50%;
-        color: whitesmoke;
-    }
-    
-    
-.main-page{
-    background-image: url(jumbotronimg.jpg);
-    height: 600px;
-    background-size: cover;
-    background-attachment: fixed;
-    justify-content: center;
-    background-repeat: no-repeat;
-    padding-top: 40px;
-   background-position: center;
+body {
+    background: url(jumbotronepics.jpg) no-repeat center center fixed;
+    backdrop-filter: blur(10px);
 }
 
-.main-page h2{
-    text-align: center;
+h2.display-2, p.lead {
+    color: black;
+    font-weight: bold;
 }
 
-.main-page p{
-    text-emphasis: bold;
-    text-align: center;
+.navbar {
+    background: rgba(0,0,0,0.7)
+} 
+
+.mainpage {
+    background: rgba(255, 255, 255, 0.6);
+    padding: 20px;
+    border-radius: 10px;
 }
 
-.main-page h3{
-    text-align: center;
-}
-.result-area{
-    
-    height: 400px;
-    background-size: cover;
-    justify-content: center;
-    text-align: center;
-}
-
-.result-area{
-    display: none;
-}
-
-.content-box{
- background-image: url(jumbotronimg.jpg);
- background-size: cover;
- background-attachment: fixed;
- justify-content:center;
- background-repeat: no-repeat;
- background-position:center;
- padding-top: 50px;
- 
-}
-
-.content-box p{
-    color: whitesmoke;
+.result-area {
+    background: rgba(255,255,255,0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
 }
